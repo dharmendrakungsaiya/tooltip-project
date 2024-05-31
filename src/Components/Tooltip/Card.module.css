@@ -34,8 +34,9 @@
 }
 
 .chip {
-  color: white;
   font-size: 0.8em;
+  color: white !important;
+  background-color: black;
 }
 
 .titleWrapper {

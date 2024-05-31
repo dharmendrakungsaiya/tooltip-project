@@ -6,8 +6,7 @@
   border-radius: 10px;
   overflow: hidden;
   width: 200px;
-  margin: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 8px black;
   transition: transform 0.3s ease;
   margin: 100px;
 }
@@ -29,7 +28,7 @@
   position: absolute;
   bottom: 10px;
   left: 10px;
-  background: rgba(0, 0, 0, 0.7);
+  background: black;
   padding: 5px 10px;
   border-radius: 20px;
 }
